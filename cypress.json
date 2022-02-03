@@ -1,0 +1,4 @@
+{
+    "testFiles": "**/*.feature",
+    "baseUrl": "https://www.marabraz.com.br"
+}
